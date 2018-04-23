@@ -128,3 +128,7 @@ Run **Object_detection.ipynb** jupyter notebook to test your model on your datas
 -  Apoorva Lakhmani [https://github.com/lakhmania/]
 -  Neha Lalwani [https://github.com/LalwaniN/]
 -  Nirali Merchant [https://github.com/nirali-merchant/]
+
+
+## Licence
+The code in the document is licensed under the [MIT License](https://opensource.org/licenses/MIT)
