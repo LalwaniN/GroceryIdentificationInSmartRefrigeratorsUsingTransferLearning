@@ -132,3 +132,6 @@ Run **Object_detection.ipynb** jupyter notebook to test your model on your datas
 
 ## Licence
 The code in the document is licensed under the [MIT License](https://opensource.org/licenses/MIT)
+We referrenced LabelImg GitHub which is licensed under the MIT License https://opensource.org/licenses/MIT
+The text in the document by Apoorva Lakhmani, Neha Lalwani, Nirali Merchant is licensed under CC BY 3.0 https://creativecommons.org/licenses/by/3.0/us/
+The code in the document by Apoorva Lakhmani, Neha Lalwani, Nirali Merchant is licensed under the MIT License https://opensource.org/licenses/MIT
